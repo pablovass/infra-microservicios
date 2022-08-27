@@ -2,7 +2,7 @@ package com.pablovass.app.domain;
 
 public class Category {
     private int categoryId;
-    private  String category;
+    private String category;
     private boolean active;
 
     public int getCategoryId() {

@@ -1,13 +1,13 @@
 package com.pablovass.app.domain;
 
 public class Product {
-    private  int productId;
+    private int productId;
     private String name;
     private int categoryId;
-    private  double price;
+    private double price;
     private int stock;
     private boolean active;
-    private  Category category;
+    private Category category;
 
     public int getProductId() {
         return productId;
